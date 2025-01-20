@@ -1,0 +1,3 @@
+ideName|repositoryUrl|projectName|fileName|searchTerm
+PyCharm|https://github.com/JetBrains/intellij-community|intellij-community|python/src/com/jetbrains/python/psi/impl/PyFunctionImpl.java|python function
+WebStorm|https://github.com/JetBrains/intellij-community|intellij-community|web-javascript/src/com/intellij/lang/javascript/psi/impl/JSFunctionImpl.java|javascript function
