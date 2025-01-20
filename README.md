@@ -7,7 +7,7 @@ The tests are written in Kotlin and utilize the IntelliJ Remote Robot framework 
 ## Setup Instructions
 1. Clone the repository:
     ```sh
-    git clone <https://github.com/Svetlana116/zencoder.git>
+    git clone https://github.com/Svetlana116/zencoder.git
     ```
 2. Navigate to the project directory:
     ```sh
